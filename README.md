@@ -11,6 +11,7 @@
 1. Avance 2.pdf - Documento con el informe final
 2. README.md - Observaciones importante y enlace a Google Doc.
 3. Programación - Carpeta con la planificación de las tareas (1 por cada estudiante)
+4. https://docs.google.com/document/d/18uNSq-y_CF52jofrS-mRzlxgWi4KVw84n3-z4oPMRqM/edit?usp=sharing
 
 ## Corte 1
 
