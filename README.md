@@ -24,6 +24,7 @@
 1. Corte 2.pdf - Documento con el informe final
 2. README.md - Observaciones importante y enlace a Google Doc.
 3. Programación - Carpeta con la planificación de las tareas (1 por cada estudiante)
+4. Ejercicio requisitos no funcionales
 
 ## Corte 3
 
