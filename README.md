@@ -26,6 +26,7 @@
 3. Programación - Carpeta con la planificación de las tareas (1 por cada estudiante)
 4. Ejercicio requisitos no funcionales
 5. https://docs.google.com/document/d/19Dvjx7mKl6HEUl8xzKEBUter5cNaGRH3yMYemmkbPDE/edit
+6. https://www.canva.com/design/DAF9kUcqKyI/IPxZ7gE7RF9JbZspk5qp9g/edit?utm_content=DAF9kUcqKyI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Corte 3
 
