@@ -33,3 +33,4 @@
 1. Corte 3.pdf - Documento con el informe final
 2. README.md - Observaciones importante y enlace a Google Doc.
 3. Programación - Carpeta con la planificación de las tareas (1 por cada estudiante)
+4. https://docs.google.com/document/d/1HFaHHZ8_qG4NB6Q5oJTnPlC1b6CKBfN9XgqBj1KsuL0/edit?usp=sharing
